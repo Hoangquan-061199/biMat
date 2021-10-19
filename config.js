@@ -4,7 +4,7 @@ const CONFIG = {
   btnIntro: "bấm vào đây để nghe tiếp nè!",
   title:
     "Hôm nay nhân ngày 20 tháng 10 anh chúc em và gia đình có một ngày thật vui vẻ, tràn đầy sức khoẻ và hạnh phúc nhé 😙",
-  desc: " Tối nay anh có thể mời em đi chơi một hôm được không?",
+  desc: " Tối nay đi chơi với anh nhé!",
   btnYes: "Oke anh, tối nay em rãnh <3",
   btnNo: "Không,  anh trai à :v",
   question: "Viết cho anh đôi lời nhé 😙",
